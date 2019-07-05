@@ -1,4 +1,4 @@
-### 切换node版本
+#### 切换node版本
 
 - 如果之前使用 brew install node 安装过node, 需要先执行 brew unlink node 来'解绑'node
 - 查找可用的node版本 brew search node
