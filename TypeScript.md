@@ -48,7 +48,7 @@ function add1(x: string, y: string): string {
     return 'hello ts'
 }
 
-let add2 = function add2(x: string, y: string): string {
+let add2 = function (x: string, y: string): string {
     return 'hello ts'
 }
 
